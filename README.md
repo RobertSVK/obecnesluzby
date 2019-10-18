@@ -1,0 +1,2 @@
+# obecnesluzby
+obecnesluzby.sk
